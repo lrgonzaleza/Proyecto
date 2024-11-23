@@ -18,6 +18,7 @@
         .auto-style1 {
             width: 105px;
         }
+
         .borde-personalizado
         {
             border: 2px solid black; /* Borde de 2px color negro */
